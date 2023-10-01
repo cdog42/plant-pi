@@ -18,6 +18,10 @@ except IOError:
     print("Another instance of this script is already running.")
     sys.exit(1)
 
+# ... rest of your script ...
+
+# At the end, you can close the lock file
+lock_file.close()
 
 
 # Directory to store images

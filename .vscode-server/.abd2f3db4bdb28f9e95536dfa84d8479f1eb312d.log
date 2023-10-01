@@ -33,3 +33,10 @@ Extension host agent listening on 34869
 [20:27:36] [127.0.0.1][9436cca7][ExtensionHostConnection] <1517> Extension Host Process exited with code: 0, signal: null.
 Cancelling previous shutdown timeout
 [20:27:36] Cancelling previous shutdown timeout
+[21:22:07] Getting Manifest... github.vscode-pull-request-github
+[21:22:07] Installing extension: github.vscode-pull-request-github
+[21:22:11] Extension signature is verified: github.vscode-pull-request-github
+[21:22:12] Extracted extension to file:///home/plantpi/.vscode-server/extensions/github.vscode-pull-request-github-0.72.0: github.vscode-pull-request-github
+[21:22:12] Renamed to /home/plantpi/.vscode-server/extensions/github.vscode-pull-request-github-0.72.0
+[21:22:12] Extracting extension completed. github.vscode-pull-request-github
+[21:22:12] Extension installed successfully: github.vscode-pull-request-github

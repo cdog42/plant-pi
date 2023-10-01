@@ -22,3 +22,10 @@
 2023-09-30 20:27:32.311 [info] [127.0.0.1][8cb13721][ExtensionHostConnection] <1563> Launched Extension Host Process.
 2023-09-30 20:27:36.573 [info] [127.0.0.1][9436cca7][ExtensionHostConnection] <1517> Extension Host Process exited with code: 0, signal: null.
 2023-09-30 20:27:36.575 [info] Cancelling previous shutdown timeout
+2023-09-30 21:22:07.401 [info] Getting Manifest... github.vscode-pull-request-github
+2023-09-30 21:22:07.631 [info] Installing extension: github.vscode-pull-request-github
+2023-09-30 21:22:11.957 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-09-30 21:22:12.417 [info] Extracted extension to file:///home/plantpi/.vscode-server/extensions/github.vscode-pull-request-github-0.72.0: github.vscode-pull-request-github
+2023-09-30 21:22:12.443 [info] Renamed to /home/plantpi/.vscode-server/extensions/github.vscode-pull-request-github-0.72.0
+2023-09-30 21:22:12.465 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-09-30 21:22:12.488 [info] Extension installed successfully: github.vscode-pull-request-github

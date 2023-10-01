@@ -13,3 +13,13 @@
 2023-09-30 20:35:12.301 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
 2023-09-30 20:36:11.188 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
 2023-09-30 20:36:15.516 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-09-30 20:48:02.230 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-09-30 20:48:02.236 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-09-30 20:48:03.673 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-09-30 21:15:04.636 [error] [ms-python.python] provider FAILED
+2023-09-30 21:15:04.637 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/plantpi/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist/extension.bundle.js:1:71903
+	at _0x37c43d (/home/plantpi/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist/extension.bundle.js:1:83687)
+	at async pe.provideCompletionItems (/home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-30 21:22:14.913 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-09-30 21:22:16.487 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10053

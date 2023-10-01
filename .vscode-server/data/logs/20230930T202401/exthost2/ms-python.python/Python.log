@@ -16,3 +16,15 @@
 2023-09-30 20:29:18.169 [info] Starting Pylance language server.
 2023-09-30 20:32:06.511 [info] Discover tests for workspace name: plantpi - uri: /home/plantpi/programs/timelapse-project/take-picture.py
 2023-09-30 20:32:13.041 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:15:25.193 [info] Discover tests for workspace name: plantpi - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:15:26.024 [info] Discover tests for workspace name: plantpi - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:15:27.819 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:15:34.807 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:17:55.035 [info] Discover tests for workspace name: plantpi - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:17:56.503 [info] Discover tests for workspace name: plantpi - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:17:57.502 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:18:02.617 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:18:08.877 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:18:17.582 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:21:56.864 [info] Discover tests for workspace name: plantpi - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 21:21:58.314 [info] Discover tests for workspace name: plantpi - uri: /home/plantpi/programs/timelapse-project/take-picture.py
