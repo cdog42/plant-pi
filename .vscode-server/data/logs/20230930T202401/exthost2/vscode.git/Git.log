@@ -1,0 +1,59 @@
+2023-09-30 20:27:35.036 [info] Log level: Info
+2023-09-30 20:27:35.036 [info] Validating found git in: "git"
+2023-09-30 20:27:35.036 [info] Using git "2.30.2" from "git"
+2023-09-30 20:27:35.036 [info] > git rev-parse --show-toplevel [124ms]
+2023-09-30 20:27:35.036 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.036 [info] > git rev-parse --show-toplevel [28ms]
+2023-09-30 20:27:35.036 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.036 [info] > git rev-parse --show-toplevel [66ms]
+2023-09-30 20:27:35.036 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.042 [info] > git rev-parse --show-toplevel [13ms]
+2023-09-30 20:27:35.042 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.180 [info] > git rev-parse --show-toplevel [123ms]
+2023-09-30 20:27:35.181 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.200 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-30 20:27:35.200 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.265 [info] > git rev-parse --show-toplevel [53ms]
+2023-09-30 20:27:35.265 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.296 [info] > git rev-parse --show-toplevel [15ms]
+2023-09-30 20:27:35.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.322 [info] > git rev-parse --show-toplevel [12ms]
+2023-09-30 20:27:35.322 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.341 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-30 20:27:35.341 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.378 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-30 20:27:35.379 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.419 [info] > git rev-parse --show-toplevel [16ms]
+2023-09-30 20:27:35.419 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.454 [info] > git rev-parse --show-toplevel [14ms]
+2023-09-30 20:27:35.454 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.482 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-30 20:27:35.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.504 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-30 20:27:35.504 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.528 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-30 20:27:35.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.548 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-30 20:27:35.548 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:35.575 [info] > git rev-parse --show-toplevel [13ms]
+2023-09-30 20:27:35.575 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:27:36.224 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-30 20:27:36.224 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:29:11.745 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-30 20:29:11.745 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:35:57.672 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-30 20:35:57.673 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-30 20:36:02.291 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-30 20:36:02.315 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-09-30 20:36:02.357 [info] Open repository: /home/plantpi
+2023-09-30 20:36:02.402 [info] No remotes found in the git config file.
+2023-09-30 20:36:02.405 [info] > git config --get commit.template [24ms]
+2023-09-30 20:36:02.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-09-30 20:36:02.731 [info] > git status -z -uall [304ms] (cancelled)
+2023-09-30 20:36:02.812 [info] > git show --textconv :programs/timelapse-project/take-picture.py [21ms]
+2023-09-30 20:36:02.816 [info] > git ls-files --stage -- /home/plantpi/programs/timelapse-project/take-picture.py [6ms]
+2023-09-30 20:36:02.969 [info] > git check-ignore -v -z --stdin [10ms]
+2023-09-30 20:36:14.864 [info] > git config --get commit.template [31ms]
+2023-09-30 20:36:14.911 [info] No remotes found in the git config file.
+2023-09-30 20:36:14.925 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2023-09-30 20:36:19.942 [info] > git status -z -uall [4994ms] (cancelled)

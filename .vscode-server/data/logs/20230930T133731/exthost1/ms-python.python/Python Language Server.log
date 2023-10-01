@@ -1,0 +1,13 @@
+2023-09-30 13:38:05.710 [info] [Info  - 13:38:05] (32379) Pylance language server 2023.9.30 (pyright 7e72aa15) starting
+2023-09-30 13:38:05.827 [info] [Info  - 13:38:05] (32379) Server root directory: /home/plantpi/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist
+2023-09-30 13:38:05.828 [info] [Info  - 13:38:05] (32379) Starting service instance "home"
+2023-09-30 13:38:06.060 [info] [Info  - 13:38:06] (32379) Setting pythonPath for service "home": "/bin/python"
+2023-09-30 13:38:06.063 [info] [Info  - 13:38:06] (32379) Setting pythonPath for service "home": "/bin/python"
+2023-09-30 13:38:06.065 [info] [Warn  - 13:38:06] (32379) stubPath /home/typings is not a valid directory.
+2023-09-30 13:38:06.238 [info] [Info  - 13:38:06] (32379) Assuming Python version 3.9
+2023-09-30 13:38:06.737 [info] [Info  - 13:38:06] (32379) Found 14 source files
+2023-09-30 13:38:11.808 [info] [Info  - 13:38:11] (32379) [BG(1)] Long operation: getSemanticTokens full at /home/plantpi/programs/timelapse-project/take-picture.py (2797ms)
+2023-09-30 13:38:13.040 [info] [Info  - 13:38:13] (32379) [IDX(2)] Long operation: scan packages /home (3330ms)
+2023-09-30 13:38:16.753 [info] [Info  - 13:38:16] (32379) [IDX(2)] Long operation: index execution environment /home (3432ms)
+2023-09-30 13:38:16.780 [info] [Info  - 13:38:16] (32379) [IDX(2)] Long operation: index packages /home (3504ms)
+2023-09-30 13:41:28.356 [info] [Info  - 13:41:28] (32379) [BG(1)] Long operation: getSemanticTokens full at /home/plantpi/programs/sensor-project/web-interface.py (5850ms)

@@ -1,0 +1,12 @@
+2023-09-30 20:13:10.059 [info] [Info  - 20:13:10] (15088) Pylance language server 2023.9.30 (pyright 7e72aa15) starting
+2023-09-30 20:13:10.060 [info] [Info  - 20:13:10] (15088) Server root directory: /home/plantpi/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist
+2023-09-30 20:13:10.060 [info] [Info  - 20:13:10] (15088) Starting service instance "home"
+2023-09-30 20:13:10.339 [info] [Info  - 20:13:10] (15088) Setting pythonPath for service "home": "/bin/python"
+2023-09-30 20:13:10.340 [info] [Info  - 20:13:10] (15088) Setting pythonPath for service "home": "/bin/python"
+2023-09-30 20:13:10.343 [info] [Warn  - 20:13:10] (15088) stubPath /home/typings is not a valid directory.
+2023-09-30 20:13:10.464 [info] [Info  - 20:13:10] (15088) Assuming Python version 3.9
+2023-09-30 20:13:10.873 [info] [Info  - 20:13:10] (15088) Found 14 source files
+2023-09-30 20:13:15.497 [info] [Info  - 20:13:15] (15088) [BG(1)] Long operation: getSemanticTokens full at /home/plantpi/programs/timelapse-project/take-picture.py (2795ms)
+2023-09-30 20:13:17.022 [info] [Info  - 20:13:17] (15088) [IDX(2)] Long operation: scan packages /home (3607ms)
+2023-09-30 20:13:21.320 [info] [Info  - 20:13:21] (15088) [BG(1)] Long operation: checking: /home/plantpi/programs/sensor-project/web-interface.py (5756ms)
+2023-09-30 20:13:21.321 [info] [Info  - 20:13:21] (15088) [BG(1)] Long operation: analyzing: /home/plantpi/programs/sensor-project/web-interface.py (5815ms)

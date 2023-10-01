@@ -1,0 +1,18 @@
+2023-09-30 20:13:03.934 [info] Experiment 'python.createEnvironment.trigger' is active
+2023-09-30 20:13:03.934 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-30 20:13:03.934 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-30 20:13:05.656 [info] Test server listening.
+2023-09-30 20:13:05.660 [info] Python interpreter path: /bin/python
+2023-09-30 20:13:05.965 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:06.031 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:06.031 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:06.031 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:06.032 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:06.032 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:07.989 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:07.989 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 20:13:10.186 [info] Starting Pylance language server.
+2023-09-30 20:15:35.652 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 20:15:50.273 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/sensor-project/web-interface.py
+2023-09-30 20:15:55.542 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/sensor-project/data-reader.py
+2023-09-30 20:16:05.484 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/charger-project/phone-watch.py

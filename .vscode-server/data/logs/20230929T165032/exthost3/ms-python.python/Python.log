@@ -1,0 +1,48 @@
+2023-09-29 16:53:56.799 [info] Experiment 'python.createEnvironment.trigger' is active
+2023-09-29 16:53:56.799 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-29 16:53:56.799 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-29 16:53:56.800 [info] Test server listening.
+2023-09-29 16:53:56.832 [error] readdir() failed for "/home/pi/.config" (Error: EACCES: permission denied, scandir '/home/pi/.config')
+2023-09-29 16:53:56.832 [error] readdir() failed for "/home/pi/.config" (Error: EACCES: permission denied, scandir '/home/pi/.config')
+2023-09-29 16:53:56.833 [error] readdir() failed for "/home/pi/.cups" (Error: EACCES: permission denied, scandir '/home/pi/.cups')
+2023-09-29 16:53:56.833 [error] readdir() failed for "/home/pi/.cups" (Error: EACCES: permission denied, scandir '/home/pi/.cups')
+2023-09-29 16:53:56.845 [error] readdir() failed for "/home/pi/.local" (Error: EACCES: permission denied, scandir '/home/pi/.local')
+2023-09-29 16:53:56.846 [error] readdir() failed for "/home/pi/.local" (Error: EACCES: permission denied, scandir '/home/pi/.local')
+2023-09-29 16:53:56.847 [error] readdir() failed for "/home/pi/.vnc" (Error: EACCES: permission denied, scandir '/home/pi/.vnc')
+2023-09-29 16:53:56.848 [error] readdir() failed for "/home/pi/.vnc" (Error: EACCES: permission denied, scandir '/home/pi/.vnc')
+2023-09-29 16:53:57.004 [info] Python interpreter path: /bin/python
+2023-09-29 16:53:57.075 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-29 16:53:57.075 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-29 16:53:57.075 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-29 16:53:57.075 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-29 16:53:59.248 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-29 16:53:59.249 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-29 16:53:59.546 [info] Send text to terminal: /bin/python /home/pi/programs/timelapse-project/take-picture.py
+2023-09-29 16:54:01.705 [info] Starting Pylance language server.
+2023-09-29 16:56:09.644 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/sensor-project/data-reader.py
+2023-09-29 16:56:36.452 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-29 16:56:38.163 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/sensor-project/web-interface.py
+2023-09-29 16:56:39.158 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/sensor-project/web-interface.py
+2023-09-29 16:56:47.509 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-29 16:57:08.325 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 16:57:25.976 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 16:57:56.571 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 16:59:01.271 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:00:00.011 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:00:01.031 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:00:50.703 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:00:51.225 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:01:04.067 [info] Send text to terminal: /bin/python /home/plantpi/programs/sensor-project/data-reader.py
+2023-09-29 17:01:11.633 [info] Send text to terminal: /bin/python /home/plantpi/programs/sensor-project/web-interface.py
+2023-09-29 17:01:52.729 [info] Send text to terminal: /bin/python /home/plantpi/programs/sensor-project/web-interface.py
+2023-09-29 17:06:31.454 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:06:32.325 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:07:09.808 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:07:12.314 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:08:20.094 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:08:22.484 [info] Send text to terminal: /bin/python /home/plantpi/programs/charger-project/phone-watch.py
+2023-09-29 17:09:29.553 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-29 17:21:29.376 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-29 17:21:30.254 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-29 17:25:43.037 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-29 17:26:19.420 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py

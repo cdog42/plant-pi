@@ -1,0 +1,66 @@
+2023-09-29 16:50:32.868 [info] 
+
+
+
+
+2023-09-29 16:50:32.868 [info] Extension host agent started.
+2023-09-29 16:50:32.929 [info] Started initializing default profile extensions in extensions installation folder. file:///home/plantpi/.vscode-server/extensions
+2023-09-29 16:50:32.970 [info] [127.0.0.1][5f1d10f3][ManagementConnection] New connection established.
+2023-09-29 16:50:33.024 [info] [127.0.0.1][b27081a0][ExtensionHostConnection] New connection established.
+2023-09-29 16:50:33.047 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/plantpi/.vscode-server/extensions
+2023-09-29 16:50:33.317 [info] [127.0.0.1][b27081a0][ExtensionHostConnection] <5072> Launched Extension Host Process.
+2023-09-29 16:50:50.820 [info] [127.0.0.1][5f1d10f3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-29 16:50:50.832 [error] Error: Throttler is disposed
+    at c.queue (/home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-29 16:50:55.933 [info] [127.0.0.1][b27081a0][ExtensionHostConnection] <5072> Extension Host Process exited with code: 0, signal: null.
+2023-09-29 16:50:55.936 [info] Cancelling previous shutdown timeout
+2023-09-29 16:50:55.938 [info] Last EH closed, waiting before shutting down
+2023-09-29 16:51:11.686 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-29 16:51:11.687 [info] Cancelling previous shutdown timeout
+2023-09-29 16:51:11.769 [info] [127.0.0.1][74d5705d][ManagementConnection] New connection established.
+2023-09-29 16:51:11.781 [info] [127.0.0.1][591ece72][ExtensionHostConnection] New connection established.
+2023-09-29 16:51:11.799 [info] [127.0.0.1][591ece72][ExtensionHostConnection] <5191> Launched Extension Host Process.
+2023-09-29 16:51:24.086 [info] [127.0.0.1][74d5705d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-29 16:51:24.090 [error] Error: Throttler is disposed
+    at c.queue (/home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-29 16:51:29.125 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-29 16:51:29.125 [info] Cancelling previous shutdown timeout
+2023-09-29 16:51:29.162 [info] [127.0.0.1][591ece72][ExtensionHostConnection] <5191> Extension Host Process exited with code: 0, signal: null.
+2023-09-29 16:51:29.163 [info] Cancelling previous shutdown timeout
+2023-09-29 16:51:29.163 [info] Last EH closed, waiting before shutting down
+2023-09-29 16:51:29.211 [info] [127.0.0.1][41cb7806][ManagementConnection] New connection established.
+2023-09-29 16:51:29.214 [info] [127.0.0.1][267de9a4][ExtensionHostConnection] New connection established.
+2023-09-29 16:51:29.247 [info] [127.0.0.1][267de9a4][ExtensionHostConnection] <5299> Launched Extension Host Process.
+2023-09-29 16:53:17.045 [info] Getting Manifest... ms-python.python
+2023-09-29 16:53:17.280 [info] Installing extension: ms-python.python
+2023-09-29 16:53:18.220 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-29 16:53:18.426 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-09-29 16:53:25.191 [info] Extension signature is verified: ms-python.python
+2023-09-29 16:53:32.914 [info] Extracted extension to file:///home/plantpi/.vscode-server/extensions/ms-python.python-2023.16.0: ms-python.python
+2023-09-29 16:53:33.062 [info] Renamed to /home/plantpi/.vscode-server/extensions/ms-python.python-2023.16.0
+2023-09-29 16:53:33.088 [info] Extracting extension completed. ms-python.python
+2023-09-29 16:53:38.872 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-09-29 16:53:53.839 [info] Extracted extension to file:///home/plantpi/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30: ms-python.vscode-pylance
+2023-09-29 16:53:53.899 [info] Renamed to /home/plantpi/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30
+2023-09-29 16:53:53.911 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-29 16:53:53.935 [info] Extension installed successfully: ms-python.python
+2023-09-29 16:53:53.935 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-09-29 16:56:29.165 [info] New EH opened, aborting shutdown
+2023-09-29 16:57:12.118 [info] Getting Manifest... mechatroner.rainbow-csv
+2023-09-29 16:57:12.208 [info] Installing extension: mechatroner.rainbow-csv
+2023-09-29 16:57:16.487 [info] Extension signature is verified: mechatroner.rainbow-csv
+2023-09-29 16:57:16.716 [info] Extracted extension to file:///home/plantpi/.vscode-server/extensions/mechatroner.rainbow-csv-3.7.1: mechatroner.rainbow-csv
+2023-09-29 16:57:16.731 [info] Renamed to /home/plantpi/.vscode-server/extensions/mechatroner.rainbow-csv-3.7.1
+2023-09-29 16:57:16.737 [info] Extracting extension completed. mechatroner.rainbow-csv
+2023-09-29 16:57:16.752 [info] Extension installed successfully: mechatroner.rainbow-csv
+2023-09-29 23:45:35.044 [info] [127.0.0.1][267de9a4][ExtensionHostConnection] The client has reconnected.
+2023-09-30 02:45:53.019 [info] [127.0.0.1][267de9a4][ExtensionHostConnection] <5299> Extension Host Process exited with code: 0, signal: null.
+2023-09-30 02:45:53.026 [info] Last EH closed, waiting before shutting down
+2023-09-30 02:50:53.028 [info] Last EH closed, shutting down

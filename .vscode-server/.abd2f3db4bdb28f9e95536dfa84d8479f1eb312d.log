@@ -1,0 +1,35 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:34869 (IPv4)
+Extension host agent listening on 34869
+
+[20:24:01] 
+
+
+
+
+[20:24:01] Extension host agent started.
+[20:24:01] [127.0.0.1][77f52a5e][ManagementConnection] Unknown reconnection token (never seen).
+[20:24:01] [127.0.0.1][5402c4bd][ExtensionHostConnection] Unknown reconnection token (never seen).
+[20:27:21] [127.0.0.1][2e387342][ManagementConnection] New connection established.
+[20:27:21] [127.0.0.1][9436cca7][ExtensionHostConnection] New connection established.
+[20:27:21] [127.0.0.1][9436cca7][ExtensionHostConnection] <1517> Launched Extension Host Process.
+[20:27:31] [127.0.0.1][2e387342][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:27:31] Error: Throttler is disposed
+    at c.queue (/home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:27:32] [127.0.0.1][8737b17b][ManagementConnection] New connection established.
+[20:27:32] [127.0.0.1][8cb13721][ExtensionHostConnection] New connection established.
+[20:27:32] [127.0.0.1][8cb13721][ExtensionHostConnection] <1563> Launched Extension Host Process.
+[20:27:36] [127.0.0.1][9436cca7][ExtensionHostConnection] <1517> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[20:27:36] Cancelling previous shutdown timeout

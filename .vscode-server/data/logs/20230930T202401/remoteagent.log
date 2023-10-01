@@ -1,0 +1,24 @@
+2023-09-30 20:24:01.373 [info] 
+
+
+
+
+2023-09-30 20:24:01.442 [info] Extension host agent started.
+2023-09-30 20:24:01.667 [error] [127.0.0.1][77f52a5e][ManagementConnection] Unknown reconnection token (never seen).
+2023-09-30 20:24:01.693 [error] [127.0.0.1][5402c4bd][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-09-30 20:27:21.939 [info] [127.0.0.1][2e387342][ManagementConnection] New connection established.
+2023-09-30 20:27:21.980 [info] [127.0.0.1][9436cca7][ExtensionHostConnection] New connection established.
+2023-09-30 20:27:21.998 [info] [127.0.0.1][9436cca7][ExtensionHostConnection] <1517> Launched Extension Host Process.
+2023-09-30 20:27:31.524 [info] [127.0.0.1][2e387342][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-30 20:27:31.531 [error] Error: Throttler is disposed
+    at c.queue (/home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/plantpi/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-30 20:27:32.265 [info] [127.0.0.1][8737b17b][ManagementConnection] New connection established.
+2023-09-30 20:27:32.292 [info] [127.0.0.1][8cb13721][ExtensionHostConnection] New connection established.
+2023-09-30 20:27:32.311 [info] [127.0.0.1][8cb13721][ExtensionHostConnection] <1563> Launched Extension Host Process.
+2023-09-30 20:27:36.573 [info] [127.0.0.1][9436cca7][ExtensionHostConnection] <1517> Extension Host Process exited with code: 0, signal: null.
+2023-09-30 20:27:36.575 [info] Cancelling previous shutdown timeout

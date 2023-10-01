@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensor Data</title>
+    <script src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-zoom/0.7.7/chartjs-plugin-zoom.min.js"></script>
+</head>
+<body>
+
+<canvas id="moistureChart"></canvas>
+
+<script>
+    const ctx = document.getElementById('moistureChart').getContext('2d');
+    const chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: [],
+            datasets: [{
+                label: 'Moisture 1',
+                data: [],
+                borderColor: 'blue',
+                fill: false
+            }, {
+                label: 'Moisture 2',
+                data: [],
+                borderColor: 'green',
+                fill: false
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    type: 'time',
+                    time: {
+                        unit: 'day',
+                        displayFormats: {
+                            day: 'MMM D'
+                        }
+                    }
+                },
+                y: {
+                    min: 0,
+                    max: 3000,
+                    title: true,
+                    text: "Moiture Levels"
+
+                }
+            },
+            plugins: {
+                zoom: {
+                    pan: {
+                        enabled: true,
+                        mode: 'xy',
+                    },
+                    zoom: {
+                        enabled: true,
+                        mode: 'xy',
+                    }
+                }
+            }
+
+                
+        }
+    });
+
+    function fetchDataAndUpdateChart() {
+        fetch('/data')
+            .then(response => response.json())
+            .then(data => {
+                const newTimestamps = data.map(entry => moment(entry.timestamp).format('YYYY-MM-DD HH:mm:ss'));
+                const newMoisture1 = data.map(entry => entry['moisture-1']);
+                const newMoisture2 = data.map(entry => entry['moisture-2']);
+
+                chart.data.labels = newTimestamps;
+                chart.data.datasets[0].data = newMoisture1;
+                chart.data.datasets[1].data = newMoisture2;
+
+                chart.update();
+            });
+    }
+
+    fetchDataAndUpdateChart();
+    setInterval(fetchDataAndUpdateChart, 10000);
+</script>
+
+</body>
+</html>

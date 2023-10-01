@@ -1,0 +1,13 @@
+2023-09-30 20:29:18.086 [info] [Info  - 20:29:17] (1648) Pylance language server 2023.9.30 (pyright 7e72aa15) starting
+2023-09-30 20:29:18.088 [info] [Info  - 20:29:18] (1648) Server root directory: /home/plantpi/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist
+2023-09-30 20:29:18.089 [info] [Info  - 20:29:18] (1648) Starting service instance "plantpi"
+2023-09-30 20:29:18.335 [info] [Info  - 20:29:18] (1648) Setting pythonPath for service "plantpi": "/bin/python"
+2023-09-30 20:29:18.337 [info] [Info  - 20:29:18] (1648) Setting pythonPath for service "plantpi": "/bin/python"
+2023-09-30 20:29:18.366 [info] [Warn  - 20:29:18] (1648) stubPath /home/plantpi/typings is not a valid directory.
+2023-09-30 20:29:18.529 [info] [Info  - 20:29:18] (1648) Assuming Python version 3.9
+2023-09-30 20:29:18.992 [info] [Info  - 20:29:18] (1648) Found 7 source files
+2023-09-30 20:29:25.126 [info] [Info  - 20:29:25] (1648) [IDX(2)] Long operation: scan packages /home/plantpi (3555ms)
+2023-09-30 20:29:25.350 [info] [Info  - 20:29:25] (1648) [BG(1)] Long operation: checking: /home/plantpi/programs/timelapse-project/take-picture.py (2862ms)
+2023-09-30 20:29:25.352 [info] [Info  - 20:29:25] (1648) [BG(1)] Long operation: analyzing: /home/plantpi/programs/timelapse-project/take-picture.py (4296ms)
+2023-09-30 20:29:30.871 [info] [Info  - 20:29:30] (1648) [IDX(2)] Long operation: index execution environment /home/plantpi (5461ms)
+2023-09-30 20:29:30.920 [info] [Info  - 20:29:30] (1648) [IDX(2)] Long operation: index packages /home/plantpi (5578ms)

@@ -1,0 +1,22 @@
+2023-09-30 13:38:01.301 [info] Experiment 'python.createEnvironment.trigger' is active
+2023-09-30 13:38:01.301 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-30 13:38:01.301 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-30 13:38:01.301 [info] Test server listening.
+2023-09-30 13:38:01.305 [info] Python interpreter path: /bin/python
+2023-09-30 13:38:01.400 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:01.542 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:01.543 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:01.543 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:01.543 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:01.544 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:03.676 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:03.677 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-30 13:38:05.901 [info] Starting Pylance language server.
+2023-09-30 13:38:06.693 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 13:38:37.861 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 13:39:42.883 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 13:40:36.325 [info] Discover tests for workspace name: home - uri: /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 13:40:38.048 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 13:41:06.711 [info] Send text to terminal: /bin/python /home/plantpi/programs/timelapse-project/take-picture.py
+2023-09-30 13:41:21.265 [info] Send text to terminal: /bin/python /home/plantpi/programs/sensor-project/data-reader.py
+2023-09-30 13:41:24.127 [info] Send text to terminal: /bin/python /home/plantpi/programs/sensor-project/web-interface.py
